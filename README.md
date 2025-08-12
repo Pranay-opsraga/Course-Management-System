@@ -52,4 +52,5 @@ Run
 ## 🔗 Linkedin 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/pranay-sharma-a198a8250//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranay-sharma-a198a8250/)
+
